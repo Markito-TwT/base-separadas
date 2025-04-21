@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Site Pessoal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Olá, eu sou Seu Nome</h1>
+    <p>Desenvolvedor | Designer <!--Coloque suas principais expecificaçoes--></p>
+  </header>
+  <main>
+    <section class="sobre">
+      <h2>Sobre min</h2>
+      <p>(Empremente suas epicificaçoes seus gostos, seus objetivos, oque deseja, qual linguagem utilisa)<br>
+        exemplo; CSS, HTML e JavaScript.</p>
+    </section>
+
+    <section class="projetos">
+      <h2>Projetos</h2>
+      <ul>
+        <!--Coloque seus projetos entre outros-->
+        <li><a href="#">Projeto 1</a></li>
+        <li><a href="#">Projeto 2</a></li>
+        <li><a href="#">Projeto 3</a></li>
+      </ul>
+    </section>
+    <section class="contato">
+      <h2>Contato [Seu meio de contato exemplo o email]</h2>
+      <!--essa tag para colocar seu email bote direto seu email dento do <a href=""></a>-->
+      <p>Me mande um e-mail: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a></p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 - [Seu Nome]. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
